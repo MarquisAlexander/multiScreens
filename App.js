@@ -1,10 +1,8 @@
 import React from 'react';
-import Test from './src/Text';
-import Linha from './src/Linha';
-import Json from './src/pages/json';
+import List from './src/pages/List';
 
 export default function App() {
   return (
-    <Json />
+    <List />
   )
 }
